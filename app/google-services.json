@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607302301121",
+    "firebase_url": "https://ilamteagarden-7ad73.firebaseio.com",
+    "project_id": "ilamteagarden-7ad73",
+    "storage_bucket": "ilamteagarden-7ad73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607302301121:android:11831b6888cfc6be966b40",
+        "android_client_info": {
+          "package_name": "com.sudarsan.illamteagarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607302301121-sbqf8klg7m9buvor2jf5kjubra0dbeg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnjuGN4puHbHybYw7Uy_2CGzlY9qjXBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607302301121-sbqf8klg7m9buvor2jf5kjubra0dbeg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
