@@ -8,7 +8,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.sudarsan.illamteagarden.Interface.ItemClickListner;
 import com.sudarsan.illamteagarden.R;
 
-
 public class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
 {
     public TextView txtProductName, txtProductPrice, txtProductQuantity;
